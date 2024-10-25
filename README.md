@@ -3,7 +3,7 @@
 Este proyecto fue desarrollado para controlar un robot Otto utilizando un módulo Bluetooth para recibir comandos y realizar diferentes movimientos. El robot Otto también cuenta con sensores ultrasónicos para evitar obstáculos y puede reproducir una melodía a través de un buzzer.
 
 ### Requisitos
-- Arduino UNO o similar.
+- Arduino NANO o similar.
 - Módulo Bluetooth (pines 10 y 11 para RX/TX).
 - Módulo Buzzer (pin 13).
 - 4 servomotores para las piernas y pies.
